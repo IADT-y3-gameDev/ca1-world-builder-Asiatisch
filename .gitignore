@@ -1,0 +1,9 @@
+Library/
+Logs/
+Assets/
+Packages/
+UserSettings/
+ProjectSettings/
+Temp/
+UserSettings/
+Assembly-CSharp.csproj/
